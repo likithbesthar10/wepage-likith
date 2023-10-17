@@ -19,6 +19,7 @@ import { Pie } from 'react-chartjs-2';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import { faArrowUp, faArrowDown  } from '@fortawesome/free-solid-svg-icons';
 
+
 ChartJS.register(
     CategoryScale,
     LinearScale,

@@ -218,6 +218,7 @@ body {
     .charts {
       grid-template-columns: 1fr;
       margin-top: 30px;
+      gap: 20px;
     }
 
     .placehold{
@@ -233,6 +234,10 @@ body {
     }
   }
 
+
+
+  
+  
   
   
   
